@@ -1,10 +1,33 @@
-# Hai Au's Profile
+# HaiAu2501
 
 <p align="center">
-<img alt = "" src ="https://komarev.com/ghpvc/?username=HaiAu2501">
+  🎓 Computer Science • Artificial Intelligence • Optimization
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HaiAu2501)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaiAu2501&show_icons=true&hide_rank=False)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaiAu2501&layout=compact)
+### 🧑‍🎓 Personal
+- **Full name:** Nguyen Viet Tuan Kiet
+- **Preferred name:** Kiet / Tuan Kiet
+- **Year of birth:** 2004
+- **Nationality:** Vietnam
+- **Current status:** Undergraduate (final year)
+- **Major:** Computer Science (Talented Program)
+- **Institution:** Hanoi University of Science and Technology (HUST)
+> "Hai Au" (Hải Âu) is a Vietnamese nickname, meaning *seagull*.
+
+---
+
+### 🎯 Academic Goals
+- **Graduate plan:** Master / PhD studies abroad
+- **Research style:** novel problems, theoretical guarantees, professional rigor
+> I am exploring graduate opportunities at institutions such as the University of Toronto, Technical University of Munich, and Tsinghua University.
+
+---
+
+### 🔬 Research Interests
+- **Combinatorial Optimization:** optimization problems in operations research and robotics
+- **Machine Learning Theory:** theory-driven and knowledge-informed learning for interpretability
+- **Multi-Agent Learning:** multi-agent frameworks for complex problem solving
+- **Computer Vision:** creative and principled representation learning techniques
+> I remain open to exploring new problem settings beyond these areas.
