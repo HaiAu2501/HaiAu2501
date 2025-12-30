@@ -1,7 +1,8 @@
 # HaiAu2501
 
 <p align="center">
-  🎓 Computer Science • Artificial Intelligence • Optimization
+  🎓 Computer Science • Artificial Intelligence • Optimization<br>
+  <b>Personal Website:</b> <a href="https://haiau2501.github.io/">Nguyen Viet Tuan Kiet</a>
 </p>
 
 ---
