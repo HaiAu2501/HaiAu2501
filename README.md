@@ -22,7 +22,7 @@
 ### 🎯 Academic Goals
 - **Graduate plan:** Master / PhD studies abroad
 - **Research style:** novel problems, theoretical guarantees, professional rigor
-> I am exploring graduate opportunities at institutions such as the University of Toronto, Technical University of Munich, and Tsinghua University.
+> I am exploring graduate opportunities at institutions such as NUS, NTU and HKUST.
 
 ---
 
